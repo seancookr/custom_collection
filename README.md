@@ -1,1 +1,1 @@
-# custom_collection
+# Custom Collection
